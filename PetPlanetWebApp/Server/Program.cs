@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
-builder.Services.AddScoped<PetfinderAuthService>();
+//builder.Services.AddScoped<PetfinderAuthService>();
 
 var app = builder.Build();
 
