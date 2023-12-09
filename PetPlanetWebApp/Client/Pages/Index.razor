@@ -2,8 +2,26 @@
 
 <PageTitle>Index</PageTitle>
 
-<h1>Hello, world!</h1>
+<button @onclick="FetchData">GET DATA</button>
 
-Welcome to your new app.
+@if (todo != null)
+{
+    <h3>Title: @todo.title</h3>
+    <p>Completed: @todo.completed</p>
+}
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+@code{
+    public Todo todo;
+    public HttpClient httpClient = new HttpClient();
+    public async Task FetchData()
+    {
+        todo = await httpClient.GetFromJsonAsync<Todo>("https://jsonplaceholder.typicode.com/todos/1");
+    }
+    public class Todo
+    {
+        public int userId { get; set; }
+        public int id { get; set; }
+        public string title { get; set; }
+        public bool completed { get; set; }
+    }
+}
