@@ -1,0 +1,157 @@
+﻿@page "/home-header"
+@using Microsoft.AspNetCore.Components.Web
+
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+    }
+
+    .header_section {
+        background-color: #fff; /* Set your desired background color */
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        padding: 10px 0;
+    }
+
+    .container-fluid {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+    }
+
+    #navbar-logo {
+        flex: 1; /* Allow the logo to grow and take available space on the left */
+    }
+
+    .navbar-brand img {
+        max-height: 40px; /* Adjust the maximum height as needed */
+    }
+
+    #navbar-menu {
+        flex: 1; /* Allow the menu to grow and take available space on the right */
+        display: flex;
+        justify-content: flex-end; /* Align items to the right */
+        align-items: center;
+    }
+
+    .User_option {
+        display: flex;
+        align-items: center;
+    }
+
+    .form-inline {
+        display: flex;
+        align-items: center;
+        margin-bottom: 0; /* Remove margin-bottom for proper alignment */
+    }
+
+    input[type="search"] {
+        padding: 5px; /* Adjust the padding as needed */
+        margin-right: 5px; /* Adjust the margin as needed */
+    }
+
+    .custom_menu-btn {
+        margin-left: 10px; /* Adjust the margin as needed */
+    }
+
+        .custom_menu-btn button {
+            background: none;
+            border: none;
+            cursor: pointer;
+        }
+
+    #myNav {
+        display: none; /* Hide the overlay by default */
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.8); /* Adjust the overlay background color */
+        color: #fff; /* Adjust the overlay text color */
+        text-align: center;
+        z-index: 1;
+    }
+
+    .overlay-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+    }
+
+        
+    .overlay-content a {
+        padding: 20px;    
+        font-size: 1.2em;
+            color: #fff; /* Adjust the overlay link color */
+            text-decoration: none;
+        }
+
+        .cross-img{
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        width: 30px;
+        height: 30px;
+        }
+        
+</style>
+
+<header class="header_section">
+    <div class="container-fluid">
+        <nav class="navbar">
+            <div id="navbar-logo">
+                <a class="navbar-brand" href="/home-header">
+                    <img src="images/logo.png" alt="">
+                </a>
+            </div>
+
+            <div id="navbar-menu">
+                <div class="User_option">
+                    <form class="form-inline my-2 mb-3 mb-lg-0">
+                        <input type="search" placeholder="Search">
+                        <img type="submit" src="images/search.png" width="10" height="10" onclick="">
+                    </form>
+                </div>
+
+                <div class="custom_menu-btn">
+                    <button @onclick="ToggleNav">
+                        <img src="images/menu.png" width="10" height="10" />
+                    </button>
+                </div>
+                
+                <div id="myNav" style="@($"display: {(isNavVisible ? "table-column" : "none")}; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.8); color: #fff; text-align: center; z-index: 1;")">
+                    
+                    <img src="images/cross.png" class="cross-img" @onclick="ToggleNav" />
+                    
+                    <div class="overlay-content">
+                        <a href="/home">Home</a>
+                        <a href="/about">About</a>
+                        <a href="/contact-us">Contact Us</a>
+                    </div>
+                </div>
+
+            </div>
+        </nav>
+    </div>
+</header>
+
+
+<!-- end header section -->
+@code {
+    private bool isNavVisible = false;
+
+    private void ToggleNav()
+    {
+        isNavVisible = !isNavVisible;
+    }
+    
+}
