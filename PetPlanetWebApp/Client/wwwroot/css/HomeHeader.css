@@ -7,7 +7,7 @@
 
 body {
     min-height: 100vh;
-    background: url('/images/bg.jpeg') no-repeat;
+    //background: url('/images/bg.jpeg') no-repeat;
     background-repeat: no-repeat;
     background-position: right;
     background-size: cover;
@@ -19,7 +19,7 @@ body {
     left: 0;
     width: 100%;
     padding: 12px 10px;
-    background-color: rgba(152, 71, 21, 0.3);
+    background-color: rgba(152, 71, 21, 0.5);
     display: flex;
     align-items: center;
     z-index: 100;
