@@ -18,13 +18,13 @@
     padding: 20px;
 }
 
-    .about img {
+.about img {
         max-width: 100%;
         height: auto;
         display: block;
-    }
+}
 
-.main {
+.main-row {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
