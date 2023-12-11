@@ -1,5 +1,20 @@
-﻿.wrapper {
+﻿.c3-body {
+    background-color: #E4CCB4; /* Set the background color as per your preference */
+}
+
+.c3-customdiv {
+    height: 50px;
+    background-color: transparent;
+}
+
+.c3-customdiv1 {
+    height: 80px;
+    background-color: transparent;
+}
+
+.wrapper {
     display: flex;
+    background: transparent;
     width: 70%;
     justify-content: center; /* Updated: Aligns cards in the center */
     margin: 0 auto; /* Added: Centers the wrapper itself */
