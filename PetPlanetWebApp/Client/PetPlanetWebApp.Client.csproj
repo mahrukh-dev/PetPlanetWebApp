@@ -19,8 +19,4 @@
     <ProjectReference Include="..\Shared\PetPlanetWebApp.Shared.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Pages\MainPages\" />
-  </ItemGroup>
-
 </Project>
