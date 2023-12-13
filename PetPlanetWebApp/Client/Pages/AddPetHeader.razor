@@ -1,0 +1,101 @@
+﻿@page "/addpet-header"
+@using Microsoft.AspNetCore.Components.Web
+
+<link href="css/AddPetHeader.css" rel="stylesheet" />
+
+<div class="container">
+		<h1>Add a Pet</h1>
+		<form id="petForm" @onsubmit="UploadPet">
+			<label for="name">Name:</label>
+			<input type="text" id="name" name="name" required><br><br>
+
+			<label for="type">Type:</label>
+			<input type="text" id="type" name="type" required><br><br>
+
+			<label for="species">Species:</label>
+			<input type="text" id="species" name="species" required><br><br>
+
+			<label for="breed">Breed:</label>
+			<input type="text" id="breed" name="breed" required><br><br>
+
+			<label for="color">Color:</label>
+			<input type="text" id="color" name="color" required><br><br>
+
+			<label for="age">Age:</label>
+			<input type="number" id="age" name="age" required><br><br>
+
+			<label for="gender">Gender:</label>
+			<select id="gender" name="gender">
+				<option value="male">Male</option>
+				<option value="female">Female</option>
+				<option value="unknown">Unknown</option>
+			</select><br><br>
+
+			<label for="size">Size:</label>
+			<select id="size" name="size">
+				<option value="small">Small</option>
+				<option value="medium">Medium</option>
+				<option value="large">Large</option>
+				<option value="extra-large">Extra Large</option>
+			</select><br><br>
+
+			<label for="coat">Coat:</label>
+			<input type="text" id="coat" name="coat"><br><br>
+
+
+			<label for="description">Description:</label><br>
+			<textarea id="description" name="description" rows="4" cols="50" required></textarea><br><br>
+
+			<label for="contactEmail">Email:</label>
+			<input type="email" id="contactEmail" name="contactEmail" required><br><br>
+
+			<label for="contactPhone">Phone:</label>
+			<input type="tel" id="contactPhone" name="contactPhone" required><br><br>
+
+			<label for="contactAddress">Address:</label>
+			<input type="text" id="contactAddress" name="contactAddress" required><br><br>
+
+			<div class=" form-group">
+				<label for="photo">Add a Photo:</label>
+				<input type="file" id="photoInput" name="photo" accept="image/*" onchange="OnFileChange"><br><br>
+
+				@if (!string.IsNullOrEmpty(displayedImage))
+            {
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="@displayedImage" alt="Selected Image" />
+                            <div class="card-body">
+                                <h5 class="card-title">Selected Image</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+					</div>
+				</div>
+			}
+				<button type="submit" class="btn btn-primary">Add Pet</button>
+			</div>
+		</form>
+	</div>
+
+@code {
+	private string displayedImage;
+
+	private async Task OnFileChange(InputFileChangeEventArgs e)
+	{
+		var file = e.File;
+		var buffer = new byte[file.Size];
+		await file.OpenReadStream().ReadAsync(buffer);
+
+		var base64String = $"data:{file.ContentType};base64,{Convert.ToBase64String(buffer)}";
+		displayedImage = base64String;
+	}
+
+	private async Task UploadPet()
+	{
+		// Your logic to handle form submission goes here
+		// For example, you can invoke a C# method to handle the form submission
+		// This method can be called using JavaScript interop or Blazor Server-side logic
+	}
+}
