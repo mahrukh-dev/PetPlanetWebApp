@@ -1,0 +1,31 @@
+﻿@page "/about-us"
+
+<style>
+    .add-about-body {
+        height: 100vh; /* Set the height to cover the entire viewport height */
+        background: url('/images/bg.jpeg') no-repeat;
+        background-size: cover; /* This property will make the background image cover the entire .add-about-body */
+        background-position: center; /* Center the background image */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .p-box {
+        height: 100px; /* Adjust the height as needed */
+        width: 100%; /* Set width to fill the parent container */
+        /* You may add other styles as needed */
+    }
+</style>
+
+<div class="add-about-body">
+    <div class="p-box"></div>
+    <AboutUsHeader />
+    <div class="p-box"></div>
+</div>
+
+
+@code {
+    // Your C# code logic goes here
+}
