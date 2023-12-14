@@ -5,8 +5,6 @@
     font-family: 'Arial Rounded MT', sans-serif;
     /*min-height: 100vh;*/
     background: url('/images/bg.jpeg');
-    /*background-repeat: no-repeat;*/
-    /*background-position: right;*/
     background-size: cover;
 }
 
