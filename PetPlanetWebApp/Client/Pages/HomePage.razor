@@ -1,12 +1,23 @@
 ﻿@page "/home"
 
-<HomeHeader></HomeHeader>
+<style>
+    .p-box {
+        height: 110px;
+    }
 
-<HomeC1 />
-<HomeC2 />
-<HomeC3 />
+</style>
 
-<Footer />
+<div class="add-pet-body">
+    <div class="p-box"></div>
+    <HomeHeader></HomeHeader>
+    <HomeC1 />
+    <HomeC2 />
+    <HomeC3 />
+
+    <Footer />
+    <div class="p-box"></div>
+
+</div>
 
 @code {
 
