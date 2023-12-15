@@ -79,3 +79,44 @@ D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\Pe
 D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.pdb
 D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.genruntimeconfig.cache
 D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\ref\PetPlanetWebApp.dll
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\PetPlanetWebApp.staticwebassets.runtime.json
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\PetPlanetWebApp.exe
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\PetPlanetWebApp.deps.json
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\PetPlanetWebApp.runtimeconfig.json
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\PetPlanetWebApp.dll
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\PetPlanetWebApp.pdb
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.csproj.AssemblyReference.cache
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.AssemblyInfoInputs.cache
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.AssemblyInfo.cs
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.csproj.CoreCompileInputs.cache
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.RazorAssemblyInfo.cache
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.RazorAssemblyInfo.cs
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\staticwebassets\msbuild.PetPlanetWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.PetPlanetWebApp.props
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PetPlanetWebApp.props
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PetPlanetWebApp.props
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\scopedcss\wwwroot\MainLayout.razor.rz.scp.css
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\scopedcss\bundle\PetPlanetWebApp.styles.css
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\scopedcss\projectbundle\PetPlanetWebApp.bundle.scp.css
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.csproj.CopyComplete
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.dll
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\refint\PetPlanetWebApp.dll
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.pdb
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.genruntimeconfig.cache
+C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\ref\PetPlanetWebApp.dll

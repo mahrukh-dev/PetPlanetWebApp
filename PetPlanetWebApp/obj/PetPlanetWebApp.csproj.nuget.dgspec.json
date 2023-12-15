@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\PetPlanetWebApp.csproj": {}
+    "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\PetPlanetWebApp.csproj": {}
   },
   "projects": {
-    "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\PetPlanetWebApp.csproj": {
+    "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\PetPlanetWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\PetPlanetWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\PetPlanetWebApp.csproj",
         "projectName": "PetPlanetWebApp",
-        "projectPath": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\PetPlanetWebApp.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\",
+        "projectPath": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\PetPlanetWebApp.csproj",
+        "packagesPath": "C:\\Users\\JAVERIA REHMAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JAVERIA REHMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

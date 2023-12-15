@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KZPHT2lOWYDPHGvF2QaQFa8JfYR40IpsBa5fYzIZQck=",
+  "Hash": "LA46JWErgz/zMOEhVwcNEfE569/g2DwnFCTIeuvRLQo=",
   "Source": "PetPlanetWebApp",
   "BasePath": "_content/PetPlanetWebApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PetPlanetWebApp\\wwwroot",
       "Source": "PetPlanetWebApp",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PetPlanetWebApp.styles.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PetPlanetWebApp.styles.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "PetPlanetWebApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PetPlanetWebApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PetPlanetWebApp.styles.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PetPlanetWebApp.bundle.scp.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PetPlanetWebApp.bundle.scp.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "PetPlanetWebApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PetPlanetWebApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PetPlanetWebApp.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AboutUsHeader.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AboutUsHeader.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/AboutUsHeader.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\AboutUsHeader.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AddPetHeader.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AddPetHeader.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/AddPetHeader.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\AddPetHeader.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AdoptPetDetailsHeader.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AdoptPetDetailsHeader.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/AdoptPetDetailsHeader.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\AdoptPetDetailsHeader.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AdoptPetHeader.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AdoptPetHeader.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/AdoptPetHeader.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\AdoptPetHeader.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\app.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\bootstrap\\bootstrap.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\bootstrap\\bootstrap.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/bootstrap/bootstrap.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\HomeC1.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\HomeC1.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/HomeC1.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\HomeC1.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\HomeC3.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\HomeC3.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/HomeC3.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\HomeC3.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\HomeHeader.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\HomeHeader.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/HomeHeader.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\HomeHeader.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\LoginHeader.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\LoginHeader.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/LoginHeader.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\LoginHeader.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\SignUpHeader.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\SignUpHeader.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/SignUpHeader.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\css\\SignUpHeader.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\site.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\favicon.ico",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\favicon.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\geojson.json",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\geojson.json",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "geojson.json",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\geojson.json"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\icon-192.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\icon-192.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "icon-192.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\icon-192.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\aboutus-main.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\aboutus-main.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/aboutus-main.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\aboutus-main.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\bg.jpeg",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\bg.jpeg",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/bg.jpeg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg.jpeg"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\c2.jpeg",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\c2.jpeg",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/c2.jpeg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\c2.jpeg"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\cat.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\cat.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/cat.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cat.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\cat-icon.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\cat-icon.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/cat-icon.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cat-icon.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\cross.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\cross.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/cross.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cross.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/dog.png",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dog.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog1.jpg",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog1.jpg",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/dog1.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dog1.jpg"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog2.jpg",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog2.jpg",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/dog2.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dog2.jpg"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog-icon.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog-icon.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/dog-icon.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dog-icon.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\fish.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\fish.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/fish.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fish.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\fish-icon.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\fish-icon.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/fish-icon.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fish-icon.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\logo.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\logoo.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\logoo.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/logoo.png",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logoo.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\main.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\main.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/main.png",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\main.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\main_bg.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\main_bg.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/main_bg.png",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\main_bg.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\menu.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\menu.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/menu.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\menu.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\pet-img.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\pet-img.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/pet-img.png",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pet-img.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\search.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\search.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/search.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\search.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\slider-img.png",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\slider-img.png",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/slider-img.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider-img.png"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\trial-image.jpeg",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\trial-image.jpeg",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "images/trial-image.jpeg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\trial-image.jpeg"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\leafletmap.js",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\leafletmap.js",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "leafletmap.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\leafletmap.js"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\MainLayout.razor",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\MainLayout.razor",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "MainLayout.razor",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\MainLayout.razor"
     },
     {
-      "Identity": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\MainLayout.razor.css",
+      "Identity": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\MainLayout.razor.css",
       "SourceId": "PetPlanetWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JAVERIA REHMAN\\JEEYA\\5TH SEMESTER\\VP - LAB\\New folder\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\",
       "BasePath": "_content/PetPlanetWebApp",
       "RelativePath": "MainLayout.razor.css",
       "AssetKind": "All",
