@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins';
+    font-family: 'Arial Rounded MT', sans-serif;
 }
 
 :root {
@@ -177,6 +177,10 @@ signup-header span {
         font-weight: 500;
  }
 
+.login {
+    justify-content: center;
+}
+
 @media only screen and (max-width: 564px) {
 .wrapper {
         padding: 20px;
@@ -186,3 +190,4 @@ signup-header span {
   padding: 7.5em 1.5em 4em 1.5em;
 }
 }
+

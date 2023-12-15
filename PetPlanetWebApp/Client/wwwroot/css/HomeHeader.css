@@ -1,15 +1,10 @@
-﻿* {
+﻿body {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    /*box-sizing: border-box;*/
     font-family: 'Arial Rounded MT', sans-serif;
-}
-
-body {
-    min-height: 100vh;
-    background: url('/images/bg.jpeg') no-repeat;
-    background-repeat: no-repeat;
-    background-position: right;
+    /*min-height: 100vh;*/
+    background: url('/images/bg.jpeg');
     background-size: cover;
 }
 
@@ -82,13 +77,13 @@ body {
 }
 
 .menu-item {
-    justify-content: space-between;
     margin-left: 40px;
+    justify-content: space-between;
 }
+
 .custom_menu-btn button {
     background: none;
     border: none;
-    cursor: pointer;
 }
 
 #myNav {

@@ -7,8 +7,8 @@
 <link href="css/AddPetHeader.css" rel="stylesheet" />
 
 <div class="form-container">
-    <h1>Add a Pet</h1>
-    <EditForm Model="pet" id="petForm" @onsubmit="AddPet">
+    <h1>Please fill out the form to add a pet</h1>
+    <form id="petForm" @onsubmit="UploadPet">
         <label for="name">Name:</label>
         <input type="text" id="name" name="name" @bind="pet.Name" required><br><br>
 
