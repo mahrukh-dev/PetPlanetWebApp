@@ -9,137 +9,137 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PetPlanetWebApp
 build_property.RootNamespace = PetPlanetWebApp
-build_property.ProjectDir = D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\
+build_property.ProjectDir = C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp
+build_property.MSBuildProjectDirectory = C:\Users\JAVERIA REHMAN\JEEYA\5TH SEMESTER\VP - LAB\New folder\PetPlanetWebApp\PetPlanetWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/App.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/AboutUs.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/AboutUs.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRVcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/AboutUsHeader.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/AboutUsHeader.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRVc0hlYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/AddPet.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/AddPet.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkUGV0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/AddPetHeader.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/AddPetHeader.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkUGV0SGVhZGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/AdoptPet.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/AdoptPet.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRvcHRQZXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/AdoptPetDetails.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/AdoptPetDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRvcHRQZXREZXRhaWxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/AdoptPetDetailsHeader.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/AdoptPetDetailsHeader.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRvcHRQZXREZXRhaWxzSGVhZGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/AdoptPetHeader.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/AdoptPetHeader.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRvcHRQZXRIZWFkZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/Counter.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/FetchData.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/Footer.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/Footer.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9vdGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/GoogleMaps.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/GoogleMaps.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR29vZ2xlTWFwcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/GoogleMapsHeader.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/GoogleMapsHeader.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR29vZ2xlTWFwc0hlYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/HomeC1.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/HomeC1.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZUMxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/HomeC2.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/HomeC2.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZUMyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/HomeC3.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/HomeC3.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZUMzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/HomeHeader.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/HomeHeader.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZUhlYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/HomePage.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/HomePage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/Index.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/LoginHeader.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/LoginHeader.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5IZWFkZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/LoginPage.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/LoginPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5QYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/SignUpHeader.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/SignUpHeader.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnblVwSGVhZGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/SignUpPage.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/SignUpPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnblVwUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/TokenDisplay.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/TokenDisplay.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9rZW5EaXNwbGF5LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Shared/SurveyPrompt.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/_Imports.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Shared/MainLayout.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-iveqw2y7ie
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Shared/NavMenu.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ez5f22vjbv
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/wwwroot/MainLayout.razor]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/wwwroot/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxNYWluTGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-vljfoil3vw
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/Error.cshtml]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Mah Rukh Dev/Projects/VP_C\#_ASP.NET/PetPlanetWebApp-Server/PetPlanetWebApp/PetPlanetWebApp/Pages/_Host.cshtml]
+[C:/Users/JAVERIA REHMAN/JEEYA/5TH SEMESTER/VP - LAB/New folder/PetPlanetWebApp/PetPlanetWebApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
