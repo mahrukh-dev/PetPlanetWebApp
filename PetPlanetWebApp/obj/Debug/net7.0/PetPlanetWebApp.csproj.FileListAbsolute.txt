@@ -38,3 +38,44 @@ C:\Users\dell\Documents\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlan
 C:\Users\dell\Documents\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.genruntimeconfig.cache
 C:\Users\dell\Documents\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\ref\PetPlanetWebApp.dll
 C:\Users\dell\Documents\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\scopedcss\wwwroot\MainLayout.razor.rz.scp.css
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\appsettings.Development.json
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\appsettings.json
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\PetPlanetWebApp.staticwebassets.runtime.json
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\PetPlanetWebApp.exe
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\PetPlanetWebApp.deps.json
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\PetPlanetWebApp.runtimeconfig.json
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\PetPlanetWebApp.dll
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\PetPlanetWebApp.pdb
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.csproj.AssemblyReference.cache
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.AssemblyInfoInputs.cache
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.AssemblyInfo.cs
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.csproj.CoreCompileInputs.cache
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.RazorAssemblyInfo.cache
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.RazorAssemblyInfo.cs
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\staticwebassets\msbuild.PetPlanetWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.PetPlanetWebApp.props
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PetPlanetWebApp.props
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PetPlanetWebApp.props
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\staticwebassets.build.json
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\staticwebassets.development.json
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\scopedcss\wwwroot\MainLayout.razor.rz.scp.css
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\scopedcss\bundle\PetPlanetWebApp.styles.css
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\scopedcss\projectbundle\PetPlanetWebApp.bundle.scp.css
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.csproj.CopyComplete
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.dll
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\refint\PetPlanetWebApp.dll
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.pdb
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\PetPlanetWebApp.genruntimeconfig.cache
+D:\Mah Rukh Dev\Projects\VP_C#_ASP.NET\PetPlanetWebApp-Server\PetPlanetWebApp\PetPlanetWebApp\obj\Debug\net7.0\ref\PetPlanetWebApp.dll

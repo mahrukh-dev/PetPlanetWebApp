@@ -1,215 +1,211 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PetPlanetWebApp.bundle.scp.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PetPlanetWebApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\PetPlanetWebApp.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\MainLayout.razor",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\MainLayout.razor",
       "PackagePath": "staticwebassets\\MainLayout.razor"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\MainLayout.razor.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\MainLayout.razor.css",
       "PackagePath": "staticwebassets\\MainLayout.razor.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AboutUsHeader.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AboutUsHeader.css",
       "PackagePath": "staticwebassets\\css\\AboutUsHeader.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AddPetHeader.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AddPetHeader.css",
       "PackagePath": "staticwebassets\\css\\AddPetHeader.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AdoptPetDetailsHeader.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AdoptPetDetailsHeader.css",
       "PackagePath": "staticwebassets\\css\\AdoptPetDetailsHeader.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AdoptPetHeader.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\AdoptPetHeader.css",
       "PackagePath": "staticwebassets\\css\\AdoptPetHeader.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\HomeC1.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\HomeC1.css",
       "PackagePath": "staticwebassets\\css\\HomeC1.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\HomeC3.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\HomeC3.css",
       "PackagePath": "staticwebassets\\css\\HomeC3.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\HomeHeader.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\HomeHeader.css",
       "PackagePath": "staticwebassets\\css\\HomeHeader.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\LoginHeader.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\LoginHeader.css",
       "PackagePath": "staticwebassets\\css\\LoginHeader.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\SignUpHeader.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\SignUpHeader.css",
       "PackagePath": "staticwebassets\\css\\SignUpHeader.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\app.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\bootstrap\\bootstrap.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\bootstrap\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\README.md",
       "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\site.css",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\favicon.ico",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\favicon.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\geojson.json",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\geojson.json",
       "PackagePath": "staticwebassets\\geojson.json"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\icon-192.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\aboutus-main.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\aboutus-main.png",
       "PackagePath": "staticwebassets\\images\\aboutus-main.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\bg.jpeg",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\bg.jpeg",
       "PackagePath": "staticwebassets\\images\\bg.jpeg"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\c2.jpeg",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\c2.jpeg",
       "PackagePath": "staticwebassets\\images\\c2.jpeg"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\cat-icon.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\cat-icon.png",
       "PackagePath": "staticwebassets\\images\\cat-icon.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\cat.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\cat.png",
       "PackagePath": "staticwebassets\\images\\cat.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\cross.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\cross.png",
       "PackagePath": "staticwebassets\\images\\cross.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog-icon.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog-icon.png",
       "PackagePath": "staticwebassets\\images\\dog-icon.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog.png",
       "PackagePath": "staticwebassets\\images\\dog.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog1.jpg",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog1.jpg",
       "PackagePath": "staticwebassets\\images\\dog1.jpg"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog2.jpg",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\dog2.jpg",
       "PackagePath": "staticwebassets\\images\\dog2.jpg"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\fish-icon.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\fish-icon.png",
       "PackagePath": "staticwebassets\\images\\fish-icon.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\fish.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\fish.png",
       "PackagePath": "staticwebassets\\images\\fish.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\logo.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\logoo.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\logoo.png",
       "PackagePath": "staticwebassets\\images\\logoo.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\main.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\main.png",
       "PackagePath": "staticwebassets\\images\\main.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\main_bg.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\main_bg.png",
       "PackagePath": "staticwebassets\\images\\main_bg.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\menu.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\menu.png",
       "PackagePath": "staticwebassets\\images\\menu.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\pet-img.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\pet-img.png",
       "PackagePath": "staticwebassets\\images\\pet-img.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\search.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\search.png",
       "PackagePath": "staticwebassets\\images\\search.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\slider-img.png",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\slider-img.png",
       "PackagePath": "staticwebassets\\images\\slider-img.png"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\trial-image.jpeg",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\images\\trial-image.jpeg",
       "PackagePath": "staticwebassets\\images\\trial-image.jpeg"
     },
     {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
-    },
-    {
-      "Id": "C:\\Users\\dell\\Documents\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\leafletmap.js",
+      "Id": "D:\\Mah Rukh Dev\\Projects\\VP_C#_ASP.NET\\PetPlanetWebApp-Server\\PetPlanetWebApp\\PetPlanetWebApp\\wwwroot\\leafletmap.js",
       "PackagePath": "staticwebassets\\leafletmap.js"
     },
     {
