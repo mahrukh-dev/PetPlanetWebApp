@@ -1,0 +1,211 @@
+/* _content/PetPlanetWebApp/Shared/MainLayout.razor.rz.scp.css */
+.page[b-iveqw2y7ie] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-iveqw2y7ie] {
+    flex: 1;
+}
+
+.sidebar[b-iveqw2y7ie] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-iveqw2y7ie] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-iveqw2y7ie]  a, .top-row .btn-link[b-iveqw2y7ie] {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+    }
+
+    .top-row a:first-child[b-iveqw2y7ie] {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-iveqw2y7ie] {
+        display: none;
+    }
+
+    .top-row.auth[b-iveqw2y7ie] {
+        justify-content: space-between;
+    }
+
+    .top-row a[b-iveqw2y7ie], .top-row .btn-link[b-iveqw2y7ie] {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-iveqw2y7ie] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-iveqw2y7ie] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-iveqw2y7ie] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row[b-iveqw2y7ie], article[b-iveqw2y7ie] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* _content/PetPlanetWebApp/Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-ez5f22vjbv] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-ez5f22vjbv] {
+    height: 3.5rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-ez5f22vjbv] {
+    font-size: 1.1rem;
+}
+
+.oi[b-ez5f22vjbv] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-ez5f22vjbv] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-ez5f22vjbv] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-ez5f22vjbv] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-ez5f22vjbv]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+.nav-item[b-ez5f22vjbv]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item[b-ez5f22vjbv]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-ez5f22vjbv] {
+        display: none;
+    }
+
+    .collapse[b-ez5f22vjbv] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+    
+    .nav-scrollable[b-ez5f22vjbv] {
+        /* Allow sidebar to scroll for tall menus */
+        height: calc(100vh - 3.5rem);
+        overflow-y: auto;
+    }
+}
+/* _content/PetPlanetWebApp/wwwroot/MainLayout.razor.rz.scp.css */
+.page[b-vljfoil3vw] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-vljfoil3vw] {
+    flex: 1;
+}
+
+.sidebar[b-vljfoil3vw] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-vljfoil3vw] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-vljfoil3vw]  a, .top-row .btn-link[b-vljfoil3vw] {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+    }
+
+    .top-row a:first-child[b-vljfoil3vw] {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-vljfoil3vw] {
+        display: none;
+    }
+
+    .top-row.auth[b-vljfoil3vw] {
+        justify-content: space-between;
+    }
+
+    .top-row a[b-vljfoil3vw], .top-row .btn-link[b-vljfoil3vw] {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-vljfoil3vw] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-vljfoil3vw] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-vljfoil3vw] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row[b-vljfoil3vw], article[b-vljfoil3vw] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}

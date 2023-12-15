@@ -1,0 +1,147 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PetPlanetWebApp
+build_property.RootNamespace = PetPlanetWebApp
+build_property.ProjectDir = C:\Users\dell\Documents\PetPlanetWebApp\PetPlanetWebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\dell\Documents\PetPlanetWebApp\PetPlanetWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/AboutUs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRVcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/AboutUsHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRVc0hlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/AddPet.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkUGV0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/AddPetHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkUGV0SGVhZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/AdoptPet.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRvcHRQZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/AdoptPetDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRvcHRQZXREZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/AdoptPetDetailsHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRvcHRQZXREZXRhaWxzSGVhZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/AdoptPetHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRvcHRQZXRIZWFkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9vdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/GoogleMaps.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR29vZ2xlTWFwcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/GoogleMapsHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR29vZ2xlTWFwc0hlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/HomeC1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZUMxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/HomeC2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZUMyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/HomeC3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZUMzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/HomeHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZUhlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/HomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/LoginHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5IZWFkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/LoginPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5QYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/SignUpHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnblVwSGVhZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/SignUpPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnblVwUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/TokenDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9rZW5EaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/wwwroot/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-vljfoil3vw
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-iveqw2y7ie
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ez5f22vjbv
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Documents/PetPlanetWebApp/PetPlanetWebApp/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
