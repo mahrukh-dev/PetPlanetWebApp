@@ -77,9 +77,10 @@
 }
 
 .menu-item {
-    justify-content: space-between;
     margin-left: 40px;
+    justify-content: space-between;
 }
+
 .custom_menu-btn button {
     background: none;
     border: none;
