@@ -6,7 +6,7 @@ namespace PetPlanetWebApp.DAL
     {
         public static SqlConnection GetConnection()
         {
-            SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=petplanet;Integrated Security=True");
+            SqlConnection con = new SqlConnection("Data Source=DESKTOP-9MFCUJA\\MAH;Initial Catalog=petplanet;Integrated Security=True");
             return con;
         }
     }
