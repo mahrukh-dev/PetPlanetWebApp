@@ -1,38 +1,41 @@
 ﻿@page "/addpet-header"
 @using Microsoft.AspNetCore.Components.Web
+@using PetPlanetWebApp.Shared.Models;
+@using PetPlanetWebApp.Shared;
+
 
 <link href="css/AddPetHeader.css" rel="stylesheet" />
 
 <div class="form-container">
     <h1>Add a Pet</h1>
-    <form id="petForm" @onsubmit="UploadPet">
+    <EditForm Model="pet" id="petForm" @onsubmit="AddPet">
         <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required><br><br>
+        <input type="text" id="name" name="name" @bind="pet.Name" required><br><br>
 
         <label for="type">Type:</label>
-        <input type="text" id="type" name="type" required><br><br>
+        <input type="text" id="type" name="type" @bind="pet.Type" required><br><br>
 
         <label for="species">Species:</label>
-        <input type="text" id="species" name="species" required><br><br>
+        <input type="text" id="species" name="species" @bind="pet.Species" required><br><br>
 
         <label for="breed">Breed:</label>
-        <input type="text" id="breed" name="breed" required><br><br>
+        <input type="text" id="breed" name="breed" @bind="pet.Breed" required><br><br>
 
         <label for="color">Color:</label>
-        <input type="text" id="color" name="color" required><br><br>
+        <input type="text" id="color" name="color" @bind="pet.Color" required><br><br>
 
         <label for="age">Age:</label>
-        <input type="number" id="age" name="age" required><br><br>
+        <input type="number" id="age" name="age" @bind="pet.Age" required><br><br>
 
         <label for="gender">Gender:</label>
-        <select id="gender" name="gender">
+        <select id="gender" name="gender" >
             <option value="male">Male</option>
             <option value="female">Female</option>
             <option value="unknown">Unknown</option>
         </select><br><br>
 
         <label for="size">Size:</label>
-        <select id="size" name="size">
+        <select id="size" name="size" >
             <option value="small">Small</option>
             <option value="medium">Medium</option>
             <option value="large">Large</option>
@@ -40,22 +43,22 @@
         </select><br><br>
 
         <label for="coat">Coat:</label>
-        <input type="text" id="coat" name="coat"><br><br>
+        <input type="text" id="coat" name="coat" @bind="pet.Coat"><br><br>
 
         <label for="description">Description:</label><br>
-        <textarea id="description" name="description" rows="4" cols="50" required></textarea><br><br>
+        <textarea id="description" name="description" rows="4" @bind="pet.Description" cols="50" required></textarea><br><br>
 
         <label for="contactEmail">Email:</label>
-        <input type="email" id="contactEmail" name="contactEmail" required><br><br>
+        <input type="email" id="contactEmail" name="contactEmail" @bind="pet.ContactEmail" required><br><br>
 
         <label for="contactPhone">Phone:</label>
-        <input type="tel" id="contactPhone" name="contactPhone" required><br><br>
+        <input type="tel" id="contactPhone" name="contactPhone" @bind="pet.ContactPhone" required><br><br>
 
         <label for="contactAddress">Address:</label>
-        <input type="text" id="contactAddress" name="contactAddress" required><br><br>
+        <input type="text" id="contactAddress" name="contactAddress" @bind="pet.ContactAddress" required><br><br>
 
         <label for="photo">Add a Photo:</label>
-        <input type="file" id="photoInput" name="photo" accept="image/*" onchange="OnFileChange()"><br><br>
+        <input type="file" id="photoInput" name="photo" accept="image/*" ><br><br>
 
         <div class="row mb-4">
             <!-- Utilizing Bootstrap's margin-bottom class -->
@@ -70,10 +73,11 @@
             <div class="col-md-6">
                 <!-- You can add additional content here if needed -->
             </div>
+
         </div>
 
         <button type="submit" class="btn btn-primary mb-4">Add Pet</button> <!-- Utilizing Bootstrap's margin-bottom class -->
-    </form>
+    </EditForm>
 </div>
 
 <script>
@@ -105,10 +109,10 @@
 
 
 @code {
-    
+    Pet pet { get; set; } = new Pet();
 
-    private async Task UploadPet()
+    private void AddPet()
     {
-        
+        DalPetService.InsertPet(pet);
     }
 }
