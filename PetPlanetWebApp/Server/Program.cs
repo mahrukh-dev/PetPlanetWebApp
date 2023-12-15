@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.ResponseCompression;
+using PetPlanetWebApp.Server.Controllers;
 using PetPlanetWebApp.Server.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,6 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+
 //builder.Services.AddScoped<PetfinderAuthService>();
 
 var app = builder.Build();
